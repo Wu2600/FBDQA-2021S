@@ -1,0 +1,26 @@
+【是在第一周课程结束之后补选的，所以内容不一定准确...】
+课程学习内容：量化交易  Quants宽客
+
+Github的用法：开源代码库   Fork-pull request-explore(找到开源代码），有很多开源代码可以follow
+比如：Linus Torvalds：https://github.com/torvalds
+     John Resig： https://github.com/jeresig
+     Jake Wharton： https://github.com/JakeWharton
+
+Markdown的使用：轻量级标记语言
+https://www.markdownguide.org/basic-syntax
+和github可以配套使用
+方便使用，语法较为简单（？）
+有一些快捷标识，如：
+加粗	Ctrl + B
+斜体	Ctrl + I
+引用	Ctrl + Q
+插入链接	Ctrl + L
+插入代码	Ctrl + K
+插入图片	Ctrl + G
+提升标题	Ctrl + H
+有序列表	Ctrl + O
+无序列表	Ctrl + U
+横线	Ctrl + R
+撤销	Ctrl + Z
+重做	Ctrl + Y
+【以源代码模式编写】
